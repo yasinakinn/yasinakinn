@@ -8,16 +8,12 @@ My name is Yasin Akın, I'm based in Turkey, beautiful city Antalya.
 
 ## 💼 Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinakinn&show_icons=true&theme=prussian&count_private=true&layout=compact)]
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinakinn&show_icons=true&theme=prussian&count_private=true&layout=compact)
 
 
 ## 📫 How to reach me
 
-You can find and get touch with me on these accounts!
+You can find and get touch with me on LinkedIn!
 
 [![Linkedin Badge](https://img.shields.io/badge/yasinakin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasinakin/)
 
-## 💬 Ask me about
-
-I'd like to get in touch with the following topics

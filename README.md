@@ -4,7 +4,7 @@ My name is Yasin Akın, I'm based in Turkey, beautiful city Antalya.
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyasinakinn.yasinakinn%2Freadme)
 
-![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinakinn&show_icons=true)
+![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinakinn&show_icons=true&theme=radical&count_private=true)
 
 ## 💼 Stats
 

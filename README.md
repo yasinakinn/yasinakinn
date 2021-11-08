@@ -6,9 +6,10 @@ My name is Yasin Akın, I'm based in Turkey, beautiful city Antalya.
 
 ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinakinn&show_icons=true&theme=prussian&count_private=true)
 
-## 💼 Stats
+## 💼 Top Langs
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinakinn&show_icons=true&theme=prussian&count_private=true&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinakinn&show_icons=true&theme=prussian&count_private=true&layout=compact)]
+
 
 
 ## 📫 How to reach me

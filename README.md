@@ -15,7 +15,7 @@ My name is Yasin Akın, I'm based in Turkey, beautiful city Antalya.
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/necmettincimen-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasinakin/)
+[![Linkedin Badge](https://img.shields.io/badge/yasinakin-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasinakin/)
 
 ## 💬 Ask me about
 

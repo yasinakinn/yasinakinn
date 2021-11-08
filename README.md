@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Hi there
 
-<!--
-**yasinakinnn/yasinakinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yasin Akın, I'm based in Turkey, beautiful city Antalya.
 
-Here are some ideas to get you started:
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyasinakinn.yasinakinn%2Freadme)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinakinn&show_icons=true)
+
+## 💼 Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinakinn" />
+
+
+## 📫 How to reach me
+
+You can find and get touch with me on these accounts!
+
+[![Linkedin Badge](https://img.shields.io/badge/necmettincimen-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasinakin/)
+
+## 💬 Ask me about
+
+I'd like to get in touch with the following topics
